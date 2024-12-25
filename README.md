@@ -1,6 +1,6 @@
 # Temperature radio-frequency transmitter  and  receiver
 
-This is an Arduino project to create a simple temperature sensor system using a 7-segment LED display. Additionally, the project investigates serial data transmission between the transmitter and receiver, base on the fundamentals of RF (Radio Frequency) transmission.
+This is an Arduino project to create a simple temperature sensor receiving system and displaying via 7-segment LED display. Additionally, the project investigates serial data transmission between the transmitter and receiver, base on the fundamentals of RF (Radio Frequency) transmission.
 
 ## Required  equipment  and  components:
 1.	HM-T433 RF transmitter 433.92 MHz 

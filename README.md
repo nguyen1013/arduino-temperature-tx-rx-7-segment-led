@@ -25,8 +25,9 @@ Make the connection as shown in Figure 1. Start with one display controller and 
  - The 7-segment displays are then connected to the display controllers.
 
 ###  Datasheets:
-•	Display controller: it needs VCC and Ground (not shown in Figure 1). See 47LS47.pdf, page 1
+•	Display controller: it needs VCC and Ground (not shown in Figure 1). See 47LS47.pdf, page 1.
 •	Display: VCC, no Ground
+
 ![Figure 1](./img/figure1.png)
 
 ![Figure 2](./img/figure2.png)
@@ -51,6 +52,7 @@ Power to the RF circuit is taken from the Arduino board. Figure 3 shows the pin 
  - Connect one 10 kΩ resistor between the DATA pin of the RF circuit and the ground (GND)
  - Connect one 100 nF capacitor between VCC and ground (GND) on the breadboard
  - The Enable Pin on the RF circuit is connected to VCC (+5 v)
+ 
 ![Figure 3](./img/figure3.png)
 
 ## Step 3:

@@ -37,6 +37,11 @@ Add another circuit board (breadboard) to the system according to Figure 3 and c
 
 Connect a quarter-wavelength wire antenna (insulated hookup wire available in the laboratory can be used as an antenna). Calculate the length of the quarter-wavelength wire antenna in centimeters in the spreadsheet program using the formula λ=c/f, where c is the speed of light, f is the frequency, and λ is the wavelength."
 
+The transmitter sends temperature readings 0-99 °C as follows:
+1. the character `T` is sent
+2. the temperature reading is sent
+3. A large amount of the number `5´ is sent
+4. back to step one
 
 ### Connections
 

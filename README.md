@@ -1,7 +1,6 @@
 # Temperature radio-frequency transmitter  and  receiver
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+This is an Arduino project to create a simple temperature sensor system using a 7-segment LED display. Additionally, the project investigates serial data transmission between the transmitter and receiver, base on the fundamentals of RF (Radio Frequency) transmission.
 
 ## Required  equipment  and  components:
 1.	HM-T433 RF transmitter 433.92 MHz 

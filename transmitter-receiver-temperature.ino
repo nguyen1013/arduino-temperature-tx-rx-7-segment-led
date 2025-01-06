@@ -15,7 +15,7 @@ void setup() {
   DDRB = 0x0F;  // Set pins B3-B0 as outputs
   
   // Set the pin used for software serial input
-  pinMode(4, INPUT); // Assuming pin 4 is used for software serial input
+  pinMode(3, INPUT); // Assuming pin 3 is used for software serial input
 }
 
 void loop() {
